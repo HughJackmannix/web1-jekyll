@@ -1,6 +1,7 @@
 ---
 title: Demo
 color: blue
+animal: hippo 
 ---
 
 ### what the hell
